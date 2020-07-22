@@ -1,0 +1,57 @@
+/* add your CSS here */
+.container{
+    width: 330px;
+    display:flex;
+    flex-wrap: wrap;
+    border: 1px solid #e0e0e0;
+    box-shadow: 6.5px 10px #e0e0e0;
+    padding-bottom: 15px;
+    font-family:cursive;
+    font-size: 13px;
+    color: black;
+} 
+
+h3{
+    font-size:15pt;
+    padding:20px; 
+    margin:0;  
+}
+
+.imgi{
+    border: 1px;
+    margin:auto;
+    padding:5px;      
+}
+
+.firstp{
+    font-style: italic;
+    border: 1px;
+    padding-left: 5px;
+}    
+
+.secondp{
+    border: 1px;
+    padding-left: 5px;
+}
+
+li {
+    list-style: none;
+    padding-left: 5px;
+}
+
+span {
+    font-weight: bold;
+    /*text-decoration: underline;*/
+  }
+
+.list{
+    padding:1px;
+    border: 1px;
+  }
+
+  .threebox{
+    border: 1px solid #e0e0e0;
+    width: 300px;
+    margin:auto;
+    
+}
